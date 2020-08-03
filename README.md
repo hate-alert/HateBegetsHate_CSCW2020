@@ -21,5 +21,5 @@ Binny Mathew, Anurag Illendula, Punyajoy Saha, Soumya Sarkar, Pawan Goyal, and A
 ~~~
 
 
-1. Lexicon_Simple.txt  ---- It consists of the manually selected keywords from hatebase and urbandictionary which were hateful in nature
+1. HateLexicons.txt  --- List of hateful phrases/keywords manually selected from Gab.
 
